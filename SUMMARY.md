@@ -6,7 +6,7 @@
 * [인공지능의 진화 단계: ANI에서 ASI까지](basic/ani-asi.md)
 * [AI 실무 활용 마스터](basic/ai-1.md)
 * [AI를 사용하는 다양한 방법](basic/ai-2.md)
-* [AI 활용법: 생산성, 창의성, 학습, 일상 \<Draft>](basic/ai-less-than-draft-greater-than.md)
+* [AI 활용법: 생산성, 창의성, 학습, 일상](basic/ai-3.md)
 
 ## Intermediate
 
