@@ -16,7 +16,7 @@
 
 * [환각의 해법: RAG(검색 증강 생성)의 이해](advanced/rag.md)
 * [MCP \<Draft>](advanced/mcp-less-than-draft-greater-than.md)
-* [Machine Leaning / Deep Leaning \<Draft>](advanced/machine-leaning-deep-leaning-less-than-draft-greater-than.md)
+* [AI / ML / DL \<Draft>](advanced/ai-ml-dl-less-than-draft-greater-than.md)
 
 ## Applied
 
