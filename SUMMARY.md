@@ -9,7 +9,8 @@
 
 ## Intermediate
 
-* [AI 환각(Hallucination) 가이드](intermediate/ai-hallucination.md)
+* [AI 환각(Hallucination) 가이드](intermediate/ai-hallucination/README.md)
+  * [AI 환각: 확률적 문장 생성 원리](intermediate/ai-hallucination/ai.md)
 
 ## Advanced
 
