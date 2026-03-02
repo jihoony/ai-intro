@@ -31,3 +31,7 @@
   * [Part 2. 누구나 쉽게 이해하는 인공지는 기술](books/ai-less-than-draft-greater-than/part-2..md)
   * [Part 3. AI 리터러시 업그레이드 생성형 AI 서비스 가이드](books/ai-less-than-draft-greater-than/part-3.-ai-ai.md)
   * [Part 4. '나' 맞춤 AI 리터러시](books/ai-less-than-draft-greater-than/part-4.-ai.md)
+
+## News
+
+* [AI 무기화 논란에…앤트로픽·오픈AI 엇갈린 행보 - 전자신문](news/ai-...-ai.md)
