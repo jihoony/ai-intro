@@ -8,6 +8,10 @@
 
 
 
+<figure><img src="../../.gitbook/assets/IMG_1806.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 2. 확률에 의한 문장 생성 예시
 
 만약 AI에게 **"대한민국의 수도는"**&#xC774;라는 입력을 주었다고 가정해 봅시다. AI는 학습한 데이터를 바탕으로 다음에 올 단어(토큰)들의 확률을 계산합니다.
