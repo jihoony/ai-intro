@@ -16,7 +16,7 @@
 
 ## Advanced
 
-* [AI / ML / DL \<Draft>](advanced/ai-ml-dl-less-than-draft-greater-than.md)
+* [AI / ML / DL](advanced/ai-ml-dl.md)
 * [MCP \<Draft>](advanced/mcp-less-than-draft-greater-than.md)
 
 ## Applied
