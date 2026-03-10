@@ -21,7 +21,7 @@
 
 ## Applied
 
-* [notebookLM \<Draft>](applied/notebooklm-less-than-draft-greater-than.md)
+* [notebookLM](applied/notebooklm.md)
 * [Vrew \<Draft>](applied/vrew-less-than-draft-greater-than.md)
 
 ## Books
