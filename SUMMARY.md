@@ -22,7 +22,8 @@
 ## Applied
 
 * [notebookLM](applied/notebooklm.md)
-* [Vrew \<Draft>](applied/vrew-less-than-draft-greater-than.md)
+* [Gemini Gems](applied/gemini-gems.md)
+* [Vrew](applied/vrew.md)
 
 ## Books
 

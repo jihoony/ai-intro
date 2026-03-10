@@ -1,4 +1,14 @@
-# Vrew \<Draft>
+# Vrew
+
+
+
+{% embed url="https://vrew.voyagerx.com/ko/" %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=mgJnUV7XmqQ" %}
+
+
 
 Vrew를 사용하여 자동으로 자막을 번역(일본어->한국어)하고, 자막도 자동 생성한 영상
 
