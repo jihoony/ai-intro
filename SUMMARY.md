@@ -7,6 +7,7 @@
 * [AI 실무 활용 마스터](basic/ai-1.md)
 * [AI를 사용하는 다양한 방법](basic/ai-2.md)
 * [AI 활용법: 생산성, 창의성, 학습, 일상](basic/ai-3.md)
+* [AI 시대를 즐기세요.](basic/ai-..md)
 
 ## Intermediate
 
