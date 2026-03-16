@@ -24,6 +24,7 @@
 
 * [notebookLM](applied/notebooklm.md)
 * [Gemini Gems](applied/gemini-gems.md)
+* [Google Opal](applied/google-opal.md)
 * [Vrew](applied/vrew.md)
 
 ## Books
