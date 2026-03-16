@@ -2,7 +2,7 @@
 
 
 
-[https://opal.google/landing/](https://opal.google/landing/)
+{% embed url="https://opal.google/landing/" %}
 
 
 
