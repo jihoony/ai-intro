@@ -162,3 +162,52 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 ### 03. 동영상 생성형 AI
 
+텍스트 설명이나 이미지를 바탕으로 생생한 동영상을 만들어내는 인공지능 기술입니다.
+
+
+
+#### 드림머신(Dream Machine)
+
+* [https://lumalabs.ai/dream-machine/](https://lumalabs.ai/dream-machine/)
+* 2024년 6월, 루마AI(Luma AI)
+* 텍스트 to 비디오, 텍스트 to 이미지, 이미지 to 비디오, 카메라 모션 등
+* 텍스트만 활용하여 고품질 영상 생성하기
+
+
+
+#### 클링 AI(Kling AI)
+
+* [https://www.klingai.com/](https://www.klingai.com/)
+* 2024년 6월, 콰이쇼우(kuaishou)
+* 최대 3분 길이의 비디오 생성 가능
+* 텍스트 to 비디오, 이미지 to 비디오, 이미지 생성 등
+
+
+
+#### 헤이젠(HeyGen)
+
+* [https://www.heygen.com/](https://www.heygen.com/)
+* 2022년 9월, 헤이젠(HeyGen)
+* 아바타 생성, 음성 복제, 비디오 번역 등
+* 내 영상으로 아바타를 생성하여 교육, 언론, 홍보 등 다양한 분야에 활용 가능
+
+
+
+#### 브루(Vrew)
+
+* [https://vrew.voyagerx.com/](https://vrew.voyagerx.com/)
+* 2017년 3월, 보이저엑스(voyagerX)
+* 자동 자막 생성, 텍스트 to 비디오, AI 음성 제작, AI 내 목소리 만들기 등
+* 텍스트로 비디오 만들기
+
+
+
+#### 캡컷(Capcut)
+
+* [https://www.capcut.com/](https://www.capcut.com/)
+* 2020년 4월, 바이트댄스(ByteDance)
+* 영상 편집, 자동 자막 생성, AI 모델, 긴 동영상 자르기 등
+* 사용법이 매우 간단해 10분만 배우면 누구나 영상 편집 가능
+
+
+
