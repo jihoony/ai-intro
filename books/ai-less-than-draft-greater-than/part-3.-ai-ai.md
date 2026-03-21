@@ -330,3 +330,7 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 
 
+#### 이미지 생성형 AI
+
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소이</th></tr></thead><tbody><tr><td>이디오 그램</td><td>정교한 텍스트 형태 이미지 생성이 강점인 AI 이미지 생성 서비스</td><td>연문 텍스트가 포함된 이미지를 생성하고 싶을 때</td><td><a href="https://ideogram.ai">https://ideogram.ai</a></td></tr><tr><td>레오나드로AI</td><td>이미지 업스케일링, 일관성 있는 인물 이미지 생성 등이 강점이 서비스</td><td>하나의 인물로 다른 유형의 여러 이미지를 생성하고 싶을 때</td><td><a href="https://app.leonardo.ai">https://app.leonardo.ai</a></td></tr><tr><td>아트브리더</td><td>이미지 합성 기능이 강점인 이미지 생성 서비스</td><td>서로 다른 느낌의 이미지를 하나로 합성하고 싶을 때</td><td><a href="https://artbreeder.com">https://artbreeder.com</a></td></tr><tr><td>캔바</td><td>다양한 디자인 템플릿과 이미지 등을 제공하는 종합 디자인 플랫폼</td><td>다양한 디자인 템플릿을 활용해 나만의 프레젠테이션이나 포스터를 제작할 때</td><td><a href="https://canva.com">https://canva.com</a></td></tr></tbody></table>
+
