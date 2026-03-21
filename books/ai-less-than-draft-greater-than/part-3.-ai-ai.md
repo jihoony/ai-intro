@@ -334,3 +334,9 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 <table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소이</th></tr></thead><tbody><tr><td>이디오 그램</td><td>정교한 텍스트 형태 이미지 생성이 강점인 AI 이미지 생성 서비스</td><td>연문 텍스트가 포함된 이미지를 생성하고 싶을 때</td><td><a href="https://ideogram.ai">https://ideogram.ai</a></td></tr><tr><td>레오나드로AI</td><td>이미지 업스케일링, 일관성 있는 인물 이미지 생성 등이 강점이 서비스</td><td>하나의 인물로 다른 유형의 여러 이미지를 생성하고 싶을 때</td><td><a href="https://app.leonardo.ai">https://app.leonardo.ai</a></td></tr><tr><td>아트브리더</td><td>이미지 합성 기능이 강점인 이미지 생성 서비스</td><td>서로 다른 느낌의 이미지를 하나로 합성하고 싶을 때</td><td><a href="https://artbreeder.com">https://artbreeder.com</a></td></tr><tr><td>캔바</td><td>다양한 디자인 템플릿과 이미지 등을 제공하는 종합 디자인 플랫폼</td><td>다양한 디자인 템플릿을 활용해 나만의 프레젠테이션이나 포스터를 제작할 때</td><td><a href="https://canva.com">https://canva.com</a></td></tr></tbody></table>
 
+
+
+#### 동영상 생성형 AI
+
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>피카</td><td>피카 이펙트라는 기능을 통해 특정 효과(폭발, 녹이기, 부풀리기 등)를 적용한 영상 생성 등의 특징을 가진 서비스</td><td>여러 영상 효과를 적용한 특별한 교육용 자료를 만들고 싶을 때</td><td><a href="https://pika.art">https://pika.art</a></td></tr><tr><td>픽토리</td><td>텍스트 대본을 입력하면 그에 맞는 영상을 조합하여 하나의 멋진 영상이 생성되는 서비스</td><td>제품이나 가게 홍보 영상을 쉽고 빠르게 제작하고 싶을때</td><td><a href="https://pictory.ai">https://pictory.ai</a></td></tr><tr><td>플루닛 스튜디오</td><td>텍스트 대본을 입력하면바아나운서 AI 아바타(한국인 포함)가 대본을 읽는 영상이 생성되는 서비스</td><td>특정 행사의 사회자가 필요하거나 소개 영상을 만들고 싶을 때</td><td><a href="https://studio.ploonet.com">https://studio.ploonet.com</a></td></tr><tr><td>신테시아</td><td>원하는 주제를 입력하면 그에 맞는 대본과 소개자료, 아바타가 자동으로 생성되는 서비스</td><td>특정 주제 교육 영상 또는 제품 홍보 영상을 만들고 싶을 때</td><td><a href="https://synthesia.io">https://synthesia.io</a></td></tr><tr><td>헤드라</td><td>대본(또는 음성)과 얼굴 사진을 입력하면 자동으로 자연스러운 아바타가 생성되는 서비스</td><td>자신돠 동일한 아바타를 생성하여 강의 영상 등을 만들고 싶을 때</td><td><a href="https://hedra.com">https://hedra.com</a></td></tr></tbody></table>
+
