@@ -326,7 +326,7 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 #### 대화형/텍스트 생성형 AI
 
-<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>큐</td><td>큐네이버에서 제공하는 AI 검색 서비스</td><td>최신 정보나 맛집, 여행, 쇼핑 등 네이버의 다양한 서비스와 연동된 AI 검색 서비스를 활용할 때</td><td><a href="https://cur.search.naver.com">https://cur.search.naver.com</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>큐</td><td>큐네이버에서 제공하는 AI 검색 서비스</td><td>최신 정보나 맛집, 여행, 쇼핑 등 네이버의 다양한 서비스와 연동된 AI 검색 서비스를 활용할 때</td><td><a href="https://cue.search.naver.com">https://cue.search.naver.com</a></td></tr><tr><td>뤼튼</td><td>뤼튼테크놀리지스에서 개발한 한국형 대화형 AI 서비스</td><td>무료로 GPT 최신 모델을 활용해서 문서 작성, 과제 등을 수행할 때</td><td><a href="https://wrtn.ai">https://wrtn.ai</a></td></tr><tr><td>POE</td><td>다양한 AI 모델을 한곳에서 사용할 수 있는 통합 플랫폼</td><td>여러 AI 모델을 다양하게 활용해 보고 싶을 때</td><td><a href="https://poe.com">https://poe.com</a></td></tr><tr><td>젠스파크</td><td>웹의 다양한 정보를 모아 요약해 주는 AI 기반 검색 서비스</td><td>최신 뉴스나 자료를 모아 블로그 형태의 요약된 문서를 만들 때</td><td><a href="https://genspark.ai">https://genspark.ai</a></td></tr></tbody></table>
 
 
 
