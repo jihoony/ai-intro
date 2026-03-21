@@ -273,3 +273,60 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 ### 05. 연구 및 교육용 생성형 AI
 
+특별히 AI 서비스가 큰 위력을 발휘하는 분야가 있으니, 바로 연구 및 교육 분야입니다. 연구나 교육을 위해서는 필연적으로 방대한 자료를 찾고, 분석하고, 정리하고, 자신의 것으로 소화해야만 합니다. 그러기 위해서는 많은 시간과 노력이 필요합니다. 이때 AI를 이용하면 자료 수집과 정리에 소모되는 힘을 절약하고, 그만큼 실질적인 연구나 교육 설계에 공을 더 많이 쏟을 수 있습니다.
+
+
+
+#### 사이스페이스(SCISPACE)
+
+* [https://typeset.io/](https://typeset.io/)
+* 2022년 5월, 타입셋(Typeset)
+* AI 기반 논문 검색 및 추천, PDF 문서와의 대화형 상호작용, 논문 요약 및 핵심 내용 추출 등
+* 간단한 키워드 입력으로 연관된 논문 탐색, 요약, 비교
+
+
+
+#### 리서치래빗(ResearchRabbit)
+
+* [https://www.researchrabbit.ai/](https://www.researchrabbit.ai/)
+* 2021년 8월, 리서치래빗(ResearchRabbit)
+* 연관 논문 추천 및 시각화 그래프 제공, 저자 관계 그래프 제공 등
+* 논문 제목이나 키워드로 연관된 논문을 그래프로 보기 좋게 시각화
+
+
+
+#### 딥엘(DeepL)
+
+* [https://www.deepl.com/](https://www.deepl.com/)
+* 2017년 1월, 딥엘(DeepL)
+* 텍스트 번역, 파일 번역, DeepL Write
+* 세계에서 가장 자연스럽고 정확한 번역
+
+
+
+#### 겟지피티(GetGPT)
+
+* [https://getgpt.app/](https://getgpt.app/)
+* 2023년, 워드브릭스(Wordbricks)
+* 마켓 플레이스를 통한 다른 앱 탐색, 스튜디오를 통한 앱 제작하기
+* 코딩 없이 5분만에 나만의 웹 앱 제작 가능
+
+
+
+#### 냅킨 AI(Napkin AI)
+
+* [https://www.napkin.ai/](https://www.napkin.ai/)
+* 2023년 8월, 냅킨테크놀로지스(Napkin Technologies)
+* 텍스트를 시각화, AI 기반 자동 분류 및 태깅, 다양한 시각화 옵션 제공 등
+* 텍스트만 입력하면 멋진 그래프, 인포그래픽, 흐름도 등으로 한방에 시각화
+
+
+
+### <부록> 더 살펴볼 만한 AI 서비스들
+
+#### 대화형/텍스트 생성형 AI
+
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>큐</td><td>큐네이버에서 제공하는 AI 검색 서비스</td><td>최신 정보나 맛집, 여행, 쇼핑 등 네이버의 다양한 서비스와 연동된 AI 검색 서비스를 활용할 때</td><td><a href="https://cur.search.naver.com">https://cur.search.naver.com</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
