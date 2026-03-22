@@ -1,6 +1,6 @@
 # Part 3. AI 리터러시 업그레이드 생성형 AI 서비스 가이드
 
-과거 AI는 전문가들만 다룰 수 있었지만, 이제는 누구나 조금만 배우면 AI의 놀라운 능력을 경험할 수 있게 되었습니다. 이러한 AI 서비스를 활용하는 것은 현재인의 AI 능력 중 가장 중요한 부분이라고 할 수 있습니다.
+과거 AI는 전문가들만 다룰 수 있었지만, 이제는 누구나 조금만 배우면 AI의 놀라운 능력을 경험할 수 있게 되었습니다. 이러한 AI 서비스를 활용하는 것은 현대인의 AI 능력 중 가장 중요한 부분이라고 할 수 있습니다.
 
 AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다.
 
@@ -10,7 +10,7 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 
 
-생성형 AI 서비스의 이런 장점들 덕분에 우리는 일상생활과 업무의 효율을 높이고, 더 좋은 결과물을 만들 수 있습니다. 하지만 아무 AI나 무작정 사용한다면 오히려 시간 낭비가 될 수 있습니다. 어떤 일을 하든, 적절한 도루를 선택하는 일은 매우 중요합니다. AI 서비스를 효과적으로 활용하려면 각 도구의 특징을 이해하고 목적에 맞게 선택하는 것이 정말 중요합니다. 상황과 목적에 맞는 AI를 고르고 활용하는 능력이 바로 현대인의 필수 AI 리터리시라고 할 수 있습니다.
+생성형 AI 서비스의 이런 장점들 덕분에 우리는 일상생활과 업무의 효율을 높이고, 더 좋은 결과물을 만들 수 있습니다. 하지만 아무 AI나 무작정 사용한다면 오히려 시간 낭비가 될 수 있습니다. 어떤 일을 하든, 적절한 도구를 선택하는 일은 매우 중요합니다. AI 서비스를 효과적으로 활용하려면 각 도구의 특징을 이해하고 목적에 맞게 선택하는 것이 정말 중요합니다. 상황과 목적에 맞는 AI를 고르고 활용하는 능력이 바로 현대인의 필수 AI 리터리시라고 할 수 있습니다.
 
 
 
@@ -69,7 +69,7 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 * [https://clova-x.navel.com/](https://clova-x.naver.com/)
 * 2023년 8월, 네이버(naver)
 * 하이퍼클로바X 기반 대화, 스킬(외부 서비스 연계), 에이전트(전문 분야별 도우미) 등
-* 한국의 문화를 가장 잘 이해하는 대화형 A(네이버의 다양한 서비스와 연계)
+* 한국의 문화를 가장 잘 이해하는 대화형 AI(네이버의 다양한 서비스와 연계)
 
 
 
@@ -86,7 +86,7 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 * [https://www.perplexity.ai/](https://www.perplexity.ai/)
 * 2022년 12월, 퍼플렉시티(Perplexity AI)
-* 웹 검색, 학문 모드(학술 자료), 소셜 모드(토론 및 의견 검색), 싱층 연구 등
+* 웹 검색, 학문 모드(학술 자료), 소셜 모드(토론 및 의견 검색), 심층 연구 등
 * 참고 문헌 검색(환각현상 최소화), 웹 검색 기반 답변
 
 
@@ -137,7 +137,7 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 * [https://www.vizcom.ai/](https://www.vizcom.ai/)
 * 2023년 3월, 비즈컴(Vizcom)
-* 스케치 렌더링, 렝더링 결과물 세부 수정, 3D 모델로 변형
+* 스케치 렌더링, 렌더링 결과물 세부 수정, 3D 모델로 변형
 * 스케치만 올리면 멋진 이미지로 렌더링
 
 
@@ -157,6 +157,10 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 * 2023년 2월, 블록케이그 랩(Blockade Lab)
 * 텍스트로 360도 파노라마 이미지 생성, 생성물 리믹스, 3D 메시 형태 내보내기 등
 * 텍스트만으로 멋진 파노라마 이미지를 쉽게 생성 가능
+
+
+
+
 
 
 
@@ -208,6 +212,10 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 * 2020년 4월, 바이트댄스(ByteDance)
 * 영상 편집, 자동 자막 생성, AI 모델, 긴 동영상 자르기 등
 * 사용법이 매우 간단해 10분만 배우면 누구나 영상 편집 가능
+
+
+
+
 
 
 
@@ -271,6 +279,10 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 
 
+
+
+
+
 ### 05. 연구 및 교육용 생성형 AI
 
 특별히 AI 서비스가 큰 위력을 발휘하는 분야가 있으니, 바로 연구 및 교육 분야입니다. 연구나 교육을 위해서는 필연적으로 방대한 자료를 찾고, 분석하고, 정리하고, 자신의 것으로 소화해야만 합니다. 그러기 위해서는 많은 시간과 노력이 필요합니다. 이때 AI를 이용하면 자료 수집과 정리에 소모되는 힘을 절약하고, 그만큼 실질적인 연구나 교육 설계에 공을 더 많이 쏟을 수 있습니다.
@@ -322,23 +334,27 @@ AI 서비스를 잘 활용하면 얻을 수 있는 장점이 정말 많습니다
 
 
 
+
+
+
+
 ### <부록> 더 살펴볼 만한 AI 서비스들
 
 #### 대화형/텍스트 생성형 AI
 
-<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>큐</td><td>큐네이버에서 제공하는 AI 검색 서비스</td><td>최신 정보나 맛집, 여행, 쇼핑 등 네이버의 다양한 서비스와 연동된 AI 검색 서비스를 활용할 때</td><td><a href="https://cue.search.naver.com">https://cue.search.naver.com</a></td></tr><tr><td>뤼튼</td><td>뤼튼테크놀리지스에서 개발한 한국형 대화형 AI 서비스</td><td>무료로 GPT 최신 모델을 활용해서 문서 작성, 과제 등을 수행할 때</td><td><a href="https://wrtn.ai">https://wrtn.ai</a></td></tr><tr><td>POE</td><td>다양한 AI 모델을 한곳에서 사용할 수 있는 통합 플랫폼</td><td>여러 AI 모델을 다양하게 활용해 보고 싶을 때</td><td><a href="https://poe.com">https://poe.com</a></td></tr><tr><td>젠스파크</td><td>웹의 다양한 정보를 모아 요약해 주는 AI 기반 검색 서비스</td><td>최신 뉴스나 자료를 모아 블로그 형태의 요약된 문서를 만들 때</td><td><a href="https://genspark.ai">https://genspark.ai</a></td></tr></tbody></table>
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>큐</td><td>네이버에서 제공하는 AI 검색 서비스</td><td>최신 정보나 맛집, 여행, 쇼핑 등 네이버의 다양한 서비스와 연동된 AI 검색 서비스를 활용할 때</td><td><a href="https://cue.search.naver.com">https://cue.search.naver.com</a></td></tr><tr><td>뤼튼</td><td>뤼튼테크놀로지스에서 개발한 한국형 대화형 AI 서비스</td><td>무료로 GPT 최신 모델을 활용해서 문서 작성, 과제 등을 수행할 때</td><td><a href="https://wrtn.ai">https://wrtn.ai</a></td></tr><tr><td>POE</td><td>다양한 AI 모델을 한곳에서 사용할 수 있는 통합 플랫폼</td><td>여러 AI 모델을 다양하게 활용해 보고 싶을 때</td><td><a href="https://poe.com">https://poe.com</a></td></tr><tr><td>젠스파크</td><td>웹의 다양한 정보를 모아 요약해 주는 AI 기반 검색 서비스</td><td>최신 뉴스나 자료를 모아 블로그 형태의 요약된 문서를 만들 때</td><td><a href="https://genspark.ai">https://genspark.ai</a></td></tr></tbody></table>
 
 
 
 #### 이미지 생성형 AI
 
-<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소이</th></tr></thead><tbody><tr><td>이디오 그램</td><td>정교한 텍스트 형태 이미지 생성이 강점인 AI 이미지 생성 서비스</td><td>연문 텍스트가 포함된 이미지를 생성하고 싶을 때</td><td><a href="https://ideogram.ai">https://ideogram.ai</a></td></tr><tr><td>레오나드로AI</td><td>이미지 업스케일링, 일관성 있는 인물 이미지 생성 등이 강점이 서비스</td><td>하나의 인물로 다른 유형의 여러 이미지를 생성하고 싶을 때</td><td><a href="https://app.leonardo.ai">https://app.leonardo.ai</a></td></tr><tr><td>아트브리더</td><td>이미지 합성 기능이 강점인 이미지 생성 서비스</td><td>서로 다른 느낌의 이미지를 하나로 합성하고 싶을 때</td><td><a href="https://artbreeder.com">https://artbreeder.com</a></td></tr><tr><td>캔바</td><td>다양한 디자인 템플릿과 이미지 등을 제공하는 종합 디자인 플랫폼</td><td>다양한 디자인 템플릿을 활용해 나만의 프레젠테이션이나 포스터를 제작할 때</td><td><a href="https://canva.com">https://canva.com</a></td></tr></tbody></table>
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소이</th></tr></thead><tbody><tr><td>이디오 그램</td><td>정교한 텍스트 형태 이미지 생성이 강점인 AI 이미지 생성 서비스</td><td>영문 텍스트가 포함된 이미지를 생성하고 싶을 때</td><td><a href="https://ideogram.ai">https://ideogram.ai</a></td></tr><tr><td>레오나드로AI</td><td>이미지 업스케일링, 일관성 있는 인물 이미지 생성 등이 강점이 서비스</td><td>하나의 인물로 다른 유형의 여러 이미지를 생성하고 싶을 때</td><td><a href="https://app.leonardo.ai">https://app.leonardo.ai</a></td></tr><tr><td>아트브리더</td><td>이미지 합성 기능이 강점인 이미지 생성 서비스</td><td>서로 다른 느낌의 이미지를 하나로 합성하고 싶을 때</td><td><a href="https://artbreeder.com">https://artbreeder.com</a></td></tr><tr><td>캔바</td><td>다양한 디자인 템플릿과 이미지 등을 제공하는 종합 디자인 플랫폼</td><td>다양한 디자인 템플릿을 활용해 나만의 프레젠테이션이나 포스터를 제작할 때</td><td><a href="https://canva.com">https://canva.com</a></td></tr></tbody></table>
 
 
 
 #### 동영상 생성형 AI
 
-<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>피카</td><td>피카 이펙트라는 기능을 통해 특정 효과(폭발, 녹이기, 부풀리기 등)를 적용한 영상 생성 등의 특징을 가진 서비스</td><td>여러 영상 효과를 적용한 특별한 교육용 자료를 만들고 싶을 때</td><td><a href="https://pika.art">https://pika.art</a></td></tr><tr><td>픽토리</td><td>텍스트 대본을 입력하면 그에 맞는 영상을 조합하여 하나의 멋진 영상이 생성되는 서비스</td><td>제품이나 가게 홍보 영상을 쉽고 빠르게 제작하고 싶을때</td><td><a href="https://pictory.ai">https://pictory.ai</a></td></tr><tr><td>플루닛 스튜디오</td><td>텍스트 대본을 입력하면바아나운서 AI 아바타(한국인 포함)가 대본을 읽는 영상이 생성되는 서비스</td><td>특정 행사의 사회자가 필요하거나 소개 영상을 만들고 싶을 때</td><td><a href="https://studio.ploonet.com">https://studio.ploonet.com</a></td></tr><tr><td>신테시아</td><td>원하는 주제를 입력하면 그에 맞는 대본과 소개자료, 아바타가 자동으로 생성되는 서비스</td><td>특정 주제 교육 영상 또는 제품 홍보 영상을 만들고 싶을 때</td><td><a href="https://synthesia.io">https://synthesia.io</a></td></tr><tr><td>헤드라</td><td>대본(또는 음성)과 얼굴 사진을 입력하면 자동으로 자연스러운 아바타가 생성되는 서비스</td><td>자신돠 동일한 아바타를 생성하여 강의 영상 등을 만들고 싶을 때</td><td><a href="https://hedra.com">https://hedra.com</a></td></tr></tbody></table>
+<table><thead><tr><th>이름</th><th>소개</th><th>추천</th><th data-type="content-ref">주소</th></tr></thead><tbody><tr><td>피카</td><td>피카 이펙트라는 기능을 통해 특정 효과(폭발, 녹이기, 부풀리기 등)를 적용한 영상 생성 등의 특징을 가진 서비스</td><td>여러 영상 효과를 적용한 특별한 교육용 자료를 만들고 싶을 때</td><td><a href="https://pika.art">https://pika.art</a></td></tr><tr><td>픽토리</td><td>텍스트 대본을 입력하면 그에 맞는 영상을 조합하여 하나의 멋진 영상이 생성되는 서비스</td><td>제품이나 가게 홍보 영상을 쉽고 빠르게 제작하고 싶을때</td><td><a href="https://pictory.ai">https://pictory.ai</a></td></tr><tr><td>플루닛 스튜디오</td><td>텍스트 대본을 입력하면 아나운서 AI 아바타(한국인 포함)가 대본을 읽는 영상이 생성되는 서비스</td><td>특정 행사의 사회자가 필요하거나 소개 영상을 만들고 싶을 때</td><td><a href="https://studio.ploonet.com">https://studio.ploonet.com</a></td></tr><tr><td>신테시아</td><td>원하는 주제를 입력하면 그에 맞는 대본과 소개자료, 아바타가 자동으로 생성되는 서비스</td><td>특정 주제 교육 영상 또는 제품 홍보 영상을 만들고 싶을 때</td><td><a href="https://synthesia.io">https://synthesia.io</a></td></tr><tr><td>헤드라</td><td>대본(또는 음성)과 얼굴 사진을 입력하면 자동으로 자연스러운 아바타가 생성되는 서비스</td><td>자신과 동일한 아바타를 생성하여 강의 영상 등을 만들고 싶을 때</td><td><a href="https://hedra.com">https://hedra.com</a></td></tr></tbody></table>
 
 
 
