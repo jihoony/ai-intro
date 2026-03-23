@@ -26,6 +26,7 @@
 * [Google Opal](applied/google-opal.md)
 * [Gemini API](applied/gemini-api.md)
 * [Vrew](applied/vrew.md)
+* [Nano Banana 2](applied/nano-banana-2.md)
 
 ## Books
 
