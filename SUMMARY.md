@@ -30,11 +30,11 @@
 
 ## Books
 
-* [AI 리터러시 \<Draft>](books/ai-less-than-draft-greater-than/README.md)
-  * [Part 1. 이제는 모두의 AI 리터러시](books/ai-less-than-draft-greater-than/part-1.-ai.md)
-  * [Part 2. 누구나 쉽게 이해하는 인공지는 기술](books/ai-less-than-draft-greater-than/part-2..md)
-  * [Part 3. AI 리터러시 업그레이드 생성형 AI 서비스 가이드](books/ai-less-than-draft-greater-than/part-3.-ai-ai.md)
-  * [Part 4. '나' 맞춤 AI 리터러시](books/ai-less-than-draft-greater-than/part-4.-ai.md)
+* [AI 리터러시](books/ai/README.md)
+  * [Part 1. 이제는 모두의 AI 리터러시](books/ai/part-1.-ai.md)
+  * [Part 2. 누구나 쉽게 이해하는 인공지는 기술](books/ai/part-2..md)
+  * [Part 3. AI 리터러시 업그레이드 생성형 AI 서비스 가이드](books/ai/part-3.-ai-ai.md)
+  * [Part 4. '나' 맞춤 AI 리터러시](books/ai/part-4.-ai.md)
 
 ## News
 
