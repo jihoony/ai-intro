@@ -41,3 +41,4 @@
 * [AI 무기화 논란에…앤트로픽·오픈AI 엇갈린 행보](https://www.etnews.com/20260302000044)
 * [오픈AI, 추론·코딩 모델 통합한 'GPT-5.4' 공](https://www.etnews.com/20260306000007)
 * ["끝났어" 오픈AI가 만든 LLM 손절설.(얀 르쿤 직접 만나봤습니다)](https://www.youtube.com/watch?v=q9BdN04bFOY)
+* [샘 올트먼 무슨 생각해 ㄷㄷ 소라2 중단 똑똑한 결정이다, 아니다? \[실전이다,인간.\] ep② / 비디오머그](https://www.youtube.com/watch?v=TM2rgCV0qbg)
