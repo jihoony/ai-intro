@@ -44,3 +44,6 @@
 * [샘 올트먼 무슨 생각해 ㄷㄷ 소라2 중단 똑똑한 결정이다, 아니다? \[실전이다,인간.\] ep② / 비디오머그](https://www.youtube.com/watch?v=TM2rgCV0qbg)
 * [맥 미니 탑 쌓아놓고 '찰칵' "이게 우리 팀원입니다" / KNN](https://www.youtube.com/watch?v=PLsEcVZlmH0)
 * [남들보다 빨리 쓴다고 AI 잘 쓰는 게 아니에요 | 앤트로픽, 드류 벤트](https://www.youtube.com/watch?v=XwjfzwR4XO0)
+* [AI도 처음 본 단어들을 서로 구분 못 한다](https://www.etnews.com/20260416000355)
+* [구글, 美 국방부와 '맞손'…기밀업무 AI 활용 협의](https://www.etnews.com/20260417000029)
+* ['미토스 충격'에 美 정부 입장 선회…앤트로픽 모델 사용 재추진](https://www.etnews.com/20260417000020)
